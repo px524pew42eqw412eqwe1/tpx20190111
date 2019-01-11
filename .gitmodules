@@ -1,0 +1,3 @@
+[submodule "modules/Phoenix"]
+	path = modules/Phoenix
+	url = https://github.com/wxWidgets/Phoenix.git
